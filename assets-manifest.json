@@ -1,0 +1,1401 @@
+﻿{
+    "project":  "Zercopa 2026",
+    "generatedAt":  "2026-06-16T13:17:44Z",
+    "assetBaseUrl":  "https://rodrigo2025br.github.io/zercopa-assets",
+    "assetCount":  174,
+    "totalSizeBytes":  129600295,
+    "assets":  [
+                   {
+                       "originalPublicPath":  "assets/avatars/avatar-1.png",
+                       "repositoryPath":  "assets/avatars/avatar-1.png",
+                       "sizeBytes":  1643088,
+                       "sha256":  "5675554e7041916f028eb458020c24ed3ed7b8c9640239748e2cc51b6f01765c",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/avatars/avatar-1.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/avatars/avatar-1.svg",
+                       "repositoryPath":  "assets/avatars/avatar-1.svg",
+                       "sizeBytes":  849,
+                       "sha256":  "d5b279992cc881f0833b79551212a360243d928e364b64625e4771012da491bb",
+                       "contentType":  "image/svg+xml",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/avatars/avatar-1.svg"
+                   },
+                   {
+                       "originalPublicPath":  "assets/avatars/avatar-10.png",
+                       "repositoryPath":  "assets/avatars/avatar-10.png",
+                       "sizeBytes":  1566277,
+                       "sha256":  "00f9ab1ec6b507bf874bd8454fc7643ae0162eaad82e569ed44cb0ceae115902",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/avatars/avatar-10.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/avatars/avatar-10.svg",
+                       "repositoryPath":  "assets/avatars/avatar-10.svg",
+                       "sizeBytes":  849,
+                       "sha256":  "999c3079f412aca6a7909889748ec3504a529509861c76edff0268614b81cac8",
+                       "contentType":  "image/svg+xml",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/avatars/avatar-10.svg"
+                   },
+                   {
+                       "originalPublicPath":  "assets/avatars/avatar-2.png",
+                       "repositoryPath":  "assets/avatars/avatar-2.png",
+                       "sizeBytes":  1590089,
+                       "sha256":  "80f8de1791421c727b4cb9496f10aac8dd69f725a41a0d707159dec65cce472e",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/avatars/avatar-2.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/avatars/avatar-2.svg",
+                       "repositoryPath":  "assets/avatars/avatar-2.svg",
+                       "sizeBytes":  849,
+                       "sha256":  "db1e0c0b957ef40552ef0d5d6b932b9a357ef5e63e128899add351164033fac9",
+                       "contentType":  "image/svg+xml",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/avatars/avatar-2.svg"
+                   },
+                   {
+                       "originalPublicPath":  "assets/avatars/avatar-3.png",
+                       "repositoryPath":  "assets/avatars/avatar-3.png",
+                       "sizeBytes":  1605702,
+                       "sha256":  "b541cee0ad7e58e1ef2eb116bef17db941ce01757da4ccc22ac4be60dab7f9c3",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/avatars/avatar-3.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/avatars/avatar-3.svg",
+                       "repositoryPath":  "assets/avatars/avatar-3.svg",
+                       "sizeBytes":  849,
+                       "sha256":  "0901e694c097868785bdf5eec392f86a9256124e11544629c16b9a40e435f584",
+                       "contentType":  "image/svg+xml",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/avatars/avatar-3.svg"
+                   },
+                   {
+                       "originalPublicPath":  "assets/avatars/avatar-4.png",
+                       "repositoryPath":  "assets/avatars/avatar-4.png",
+                       "sizeBytes":  1354523,
+                       "sha256":  "2f93f87ca3da51c391a9b8d0a4d5415f75b6f5df75817ea971e895efc95b8600",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/avatars/avatar-4.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/avatars/avatar-4.svg",
+                       "repositoryPath":  "assets/avatars/avatar-4.svg",
+                       "sizeBytes":  849,
+                       "sha256":  "2f8a06ae99e1f0ef0b17110232be5e6248217343542dd8cc46e1d47ac6c5e74a",
+                       "contentType":  "image/svg+xml",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/avatars/avatar-4.svg"
+                   },
+                   {
+                       "originalPublicPath":  "assets/avatars/avatar-5.png",
+                       "repositoryPath":  "assets/avatars/avatar-5.png",
+                       "sizeBytes":  1367346,
+                       "sha256":  "8b4afb1e92f1ccee363181aa0c7d6f93df2854757f31cf42500bf15f7758a746",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/avatars/avatar-5.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/avatars/avatar-5.svg",
+                       "repositoryPath":  "assets/avatars/avatar-5.svg",
+                       "sizeBytes":  849,
+                       "sha256":  "0c11b5d81442f0c29487d7054b9172010d405aab775acf8a91ec2a86af36df0a",
+                       "contentType":  "image/svg+xml",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/avatars/avatar-5.svg"
+                   },
+                   {
+                       "originalPublicPath":  "assets/avatars/avatar-6.png",
+                       "repositoryPath":  "assets/avatars/avatar-6.png",
+                       "sizeBytes":  1471995,
+                       "sha256":  "203082bd50ffd3c0b49183bc4fd0912d82f5c6e88954d03417c1f4bdab4ef03d",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/avatars/avatar-6.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/avatars/avatar-6.svg",
+                       "repositoryPath":  "assets/avatars/avatar-6.svg",
+                       "sizeBytes":  849,
+                       "sha256":  "0efb6070fdb655cdbb7b0428d9d5a19f19f90949da7e38fe21f95012209ed2d3",
+                       "contentType":  "image/svg+xml",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/avatars/avatar-6.svg"
+                   },
+                   {
+                       "originalPublicPath":  "assets/avatars/avatar-7.png",
+                       "repositoryPath":  "assets/avatars/avatar-7.png",
+                       "sizeBytes":  1686624,
+                       "sha256":  "f15f714df6694e400f60ef7b617bbe0e85ca56fd10dd4bccf0b38a707100c6fc",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/avatars/avatar-7.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/avatars/avatar-7.svg",
+                       "repositoryPath":  "assets/avatars/avatar-7.svg",
+                       "sizeBytes":  849,
+                       "sha256":  "667750ba7c90bf037e7f558894171f817a237c40578fbe3062ad68f364932ba8",
+                       "contentType":  "image/svg+xml",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/avatars/avatar-7.svg"
+                   },
+                   {
+                       "originalPublicPath":  "assets/avatars/avatar-8.png",
+                       "repositoryPath":  "assets/avatars/avatar-8.png",
+                       "sizeBytes":  1630420,
+                       "sha256":  "786992c11191b8690de25c7c64bf516d8e12541a6df20ee46893416eb1725eee",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/avatars/avatar-8.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/avatars/avatar-8.svg",
+                       "repositoryPath":  "assets/avatars/avatar-8.svg",
+                       "sizeBytes":  849,
+                       "sha256":  "807ac676b279f25e444b8e31f8e212e30408ee8298c4483f325543820d898a10",
+                       "contentType":  "image/svg+xml",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/avatars/avatar-8.svg"
+                   },
+                   {
+                       "originalPublicPath":  "assets/avatars/avatar-9.png",
+                       "repositoryPath":  "assets/avatars/avatar-9.png",
+                       "sizeBytes":  1645526,
+                       "sha256":  "488eab4166f7c487c8f180ba0395ca905c51597162c40156845942793a115b46",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/avatars/avatar-9.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/avatars/avatar-9.svg",
+                       "repositoryPath":  "assets/avatars/avatar-9.svg",
+                       "sizeBytes":  849,
+                       "sha256":  "8f6be83986eca08fdc6cc4632c92147b0ec5aaad18bd5e73088d8e9a1fa507e8",
+                       "contentType":  "image/svg+xml",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/avatars/avatar-9.svg"
+                   },
+                   {
+                       "originalPublicPath":  "assets/backgrounds/stadium-page-bg.png",
+                       "repositoryPath":  "assets/backgrounds/stadium-page-bg.png",
+                       "sizeBytes":  2567130,
+                       "sha256":  "2b9771f911e71596b60cbf252b214e9309112e142418d1e156231ea01f70efd3",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/backgrounds/stadium-page-bg.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/badges/especialista-mata-mata.png",
+                       "repositoryPath":  "assets/badges/especialista-mata-mata.png",
+                       "sizeBytes":  1804933,
+                       "sha256":  "b9aea9546110b85d2e1792a7b711af1660b7b8f7cf5d3d70470c4ec4ac826615",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/badges/especialista-mata-mata.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/badges/maior-profeta.png",
+                       "repositoryPath":  "assets/badges/maior-profeta.png",
+                       "sizeBytes":  1327193,
+                       "sha256":  "99a74ba7217546006860c557ec8e448685f8e057aafbfbff55b3fbd61f96df63",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/badges/maior-profeta.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/badges/maior-zicador.png",
+                       "repositoryPath":  "assets/badges/maior-zicador.png",
+                       "sizeBytes":  1458142,
+                       "sha256":  "7372b8ff8fd589130c562e59de4aa8bab645a8f44764cc09f88a4a59d1740825",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/badges/maior-zicador.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/badges/rei-dos-exatos.png",
+                       "repositoryPath":  "assets/badges/rei-dos-exatos.png",
+                       "sizeBytes":  1454268,
+                       "sha256":  "0095aad76e4ea5a6b53da9ce2ead9d85599dc83f15945edb1fd39d01b1e89a90",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/badges/rei-dos-exatos.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/brand/android-chrome-192x192.png",
+                       "repositoryPath":  "assets/brand/android-chrome-192x192.png",
+                       "sizeBytes":  27523,
+                       "sha256":  "7308e1a9172cff12cb193cdd7ce153058a6e991a3cc2b9f08536eea3992e8314",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/brand/android-chrome-192x192.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/brand/android-chrome-512x512.png",
+                       "repositoryPath":  "assets/brand/android-chrome-512x512.png",
+                       "sizeBytes":  122115,
+                       "sha256":  "24cf75e4a2f313207bf53a68a7372c0fb0e708f7fc9ad35d2ac603d5b32fea20",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/brand/android-chrome-512x512.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/brand/apple-touch-icon.png",
+                       "repositoryPath":  "assets/brand/apple-touch-icon.png",
+                       "sizeBytes":  24770,
+                       "sha256":  "2b4ae034a15260ba389f65fc23ca9a92926b6dc1c8bf07a2e56fe54ade0c90ef",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/brand/apple-touch-icon.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/brand/favicon-16x16.png",
+                       "repositoryPath":  "assets/brand/favicon-16x16.png",
+                       "sizeBytes":  971,
+                       "sha256":  "64719a88aa63ffcbd882cbfa7d13fd5ed0d4813a39734d523aecd48e5a3e1f39",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/brand/favicon-16x16.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/brand/favicon-32x32.png",
+                       "repositoryPath":  "assets/brand/favicon-32x32.png",
+                       "sizeBytes":  2175,
+                       "sha256":  "210b0abfd189d7d342dfcc16128b7f15e5292be4dadd024c2029da7be7618dab",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/brand/favicon-32x32.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/brand/favicon-48x48.png",
+                       "repositoryPath":  "assets/brand/favicon-48x48.png",
+                       "sizeBytes":  5266,
+                       "sha256":  "65e2c864029176c60460240dd7275e65e0bfa24bdd23dcf322802441d1c14c0d",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/brand/favicon-48x48.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/brand/favicon-64x64.png",
+                       "repositoryPath":  "assets/brand/favicon-64x64.png",
+                       "sizeBytes":  8140,
+                       "sha256":  "045efc08ea81c9adbb65eb5d10c9e422d90712d5fb641fa2bdaba8a7ae6122e9",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/brand/favicon-64x64.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/brand/zercopa-icon-oficial.png",
+                       "repositoryPath":  "assets/brand/zercopa-icon-oficial.png",
+                       "sizeBytes":  391041,
+                       "sha256":  "4649f8599ed3553127572585af5f51184a29441c30ada1e09dea7d89df784838",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/brand/zercopa-icon-oficial.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/brand/zercopa-logo-2026.png",
+                       "repositoryPath":  "assets/brand/zercopa-logo-2026.png",
+                       "sizeBytes":  188208,
+                       "sha256":  "63c074c3a8a6ed129edee720b1144d727ff84453683361582442c8e1541eac15",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/brand/zercopa-logo-2026.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/brand/zercopa-logo-2026.webp",
+                       "repositoryPath":  "assets/brand/zercopa-logo-2026.webp",
+                       "sizeBytes":  129340,
+                       "sha256":  "1c16ba358c22f56b271004dffbd48736288a6c1ae632548fac4923a0079568a0",
+                       "contentType":  "image/webp",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/brand/zercopa-logo-2026.webp"
+                   },
+                   {
+                       "originalPublicPath":  "assets/brand/zercopa-logo-oficial.png",
+                       "repositoryPath":  "assets/brand/zercopa-logo-oficial.png",
+                       "sizeBytes":  230330,
+                       "sha256":  "527e40a261806c56c976bc33ffe9c36c8f3286d78a98356c72c75f5d66e67de6",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/brand/zercopa-logo-oficial.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/brand/zercopa-logo-oficial.webp",
+                       "repositoryPath":  "assets/brand/zercopa-logo-oficial.webp",
+                       "sizeBytes":  152500,
+                       "sha256":  "a235d45e3753b7398c04abb0e9ed356e41c766857d877f9091637e4dfdcc2b66",
+                       "contentType":  "image/webp",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/brand/zercopa-logo-oficial.webp"
+                   },
+                   {
+                       "originalPublicPath":  "assets/flags-svg/ar.svg",
+                       "repositoryPath":  "assets/flags-svg/ar.svg",
+                       "sizeBytes":  3467,
+                       "sha256":  "6525d9b1c1e3d204bfd03e3e697812f501920c7acbd0b5aba950e7532860bfa4",
+                       "contentType":  "image/svg+xml",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/flags-svg/ar.svg"
+                   },
+                   {
+                       "originalPublicPath":  "assets/flags-svg/at.svg",
+                       "repositoryPath":  "assets/flags-svg/at.svg",
+                       "sizeBytes":  195,
+                       "sha256":  "c0e5cb3c1d59fd002afd6e2b0dd03787677ca3c9e7b2321f4af6d9e28256ebcd",
+                       "contentType":  "image/svg+xml",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/flags-svg/at.svg"
+                   },
+                   {
+                       "originalPublicPath":  "assets/flags-svg/au.svg",
+                       "repositoryPath":  "assets/flags-svg/au.svg",
+                       "sizeBytes":  1296,
+                       "sha256":  "cbb2206c5e59a25d79228306af973666a191e163f0ae337681f447977e6edb18",
+                       "contentType":  "image/svg+xml",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/flags-svg/au.svg"
+                   },
+                   {
+                       "originalPublicPath":  "assets/flags-svg/ba.svg",
+                       "repositoryPath":  "assets/flags-svg/ba.svg",
+                       "sizeBytes":  1240,
+                       "sha256":  "b321fe9b47c1cd741c61b330aee66cf00550622a6a9e740161a9f240a14e0787",
+                       "contentType":  "image/svg+xml",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/flags-svg/ba.svg"
+                   },
+                   {
+                       "originalPublicPath":  "assets/flags-svg/be.svg",
+                       "repositoryPath":  "assets/flags-svg/be.svg",
+                       "sizeBytes":  302,
+                       "sha256":  "d6aff6fa4c913404eafd53f91c0a9b240fcecaddc8f0ac2160d362e38469342c",
+                       "contentType":  "image/svg+xml",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/flags-svg/be.svg"
+                   },
+                   {
+                       "originalPublicPath":  "assets/flags-svg/br.svg",
+                       "repositoryPath":  "assets/flags-svg/br.svg",
+                       "sizeBytes":  7167,
+                       "sha256":  "d079a828be244afbfefccae98370ae404766e62e4716cb3e0ef2d9eed487b390",
+                       "contentType":  "image/svg+xml",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/flags-svg/br.svg"
+                   },
+                   {
+                       "originalPublicPath":  "assets/flags-svg/ca.svg",
+                       "repositoryPath":  "assets/flags-svg/ca.svg",
+                       "sizeBytes":  625,
+                       "sha256":  "345ec9dac057e203f1331b2d3f9f473789864edaee1182a26bc261356bcf72f1",
+                       "contentType":  "image/svg+xml",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/flags-svg/ca.svg"
+                   },
+                   {
+                       "originalPublicPath":  "assets/flags-svg/cd.svg",
+                       "repositoryPath":  "assets/flags-svg/cd.svg",
+                       "sizeBytes":  334,
+                       "sha256":  "ad93c1afd68e6a7364d141e0989a798e81a202fe4674f21fece3ceea83fd167c",
+                       "contentType":  "image/svg+xml",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/flags-svg/cd.svg"
+                   },
+                   {
+                       "originalPublicPath":  "assets/flags-svg/ch.svg",
+                       "repositoryPath":  "assets/flags-svg/ch.svg",
+                       "sizeBytes":  290,
+                       "sha256":  "ac676cd39d7032988598ef2dd73f6bebcd767738e3e469705d6a437835ac485c",
+                       "contentType":  "image/svg+xml",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/flags-svg/ch.svg"
+                   },
+                   {
+                       "originalPublicPath":  "assets/flags-svg/ci.svg",
+                       "repositoryPath":  "assets/flags-svg/ci.svg",
+                       "sizeBytes":  277,
+                       "sha256":  "4ecfea70e4e0860fdb49a523db7cd64431b4da8130ee9038cf87bfcc85c3806e",
+                       "contentType":  "image/svg+xml",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/flags-svg/ci.svg"
+                   },
+                   {
+                       "originalPublicPath":  "assets/flags-svg/co.svg",
+                       "repositoryPath":  "assets/flags-svg/co.svg",
+                       "sizeBytes":  286,
+                       "sha256":  "6bab3c96c1657510c6e49354dd40203c69401bee54da497392ab9267334e5fd4",
+                       "contentType":  "image/svg+xml",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/flags-svg/co.svg"
+                   },
+                   {
+                       "originalPublicPath":  "assets/flags-svg/cv.svg",
+                       "repositoryPath":  "assets/flags-svg/cv.svg",
+                       "sizeBytes":  1411,
+                       "sha256":  "2fa67e0a2477306f0427877b78d2276c58c496ff50faf4b3d69252350821e138",
+                       "contentType":  "image/svg+xml",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/flags-svg/cv.svg"
+                   },
+                   {
+                       "originalPublicPath":  "assets/flags-svg/cw.svg",
+                       "repositoryPath":  "assets/flags-svg/cw.svg",
+                       "sizeBytes":  687,
+                       "sha256":  "c845d0cad7f00344a2729257315afbf81c70c08bf0772211eb913a716b9aae7c",
+                       "contentType":  "image/svg+xml",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/flags-svg/cw.svg"
+                   },
+                   {
+                       "originalPublicPath":  "assets/flags-svg/cz.svg",
+                       "repositoryPath":  "assets/flags-svg/cz.svg",
+                       "sizeBytes":  225,
+                       "sha256":  "d601fcc2e5b1fd48b79d53c55108af4c0e90793f146db51f3ee449d8d69512bc",
+                       "contentType":  "image/svg+xml",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/flags-svg/cz.svg"
+                   },
+                   {
+                       "originalPublicPath":  "assets/flags-svg/de.svg",
+                       "repositoryPath":  "assets/flags-svg/de.svg",
+                       "sizeBytes":  221,
+                       "sha256":  "efd480af5a154a7651f29da23ee0d09dbc892410fb4041898ddf8face336c575",
+                       "contentType":  "image/svg+xml",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/flags-svg/de.svg"
+                   },
+                   {
+                       "originalPublicPath":  "assets/flags-svg/dz.svg",
+                       "repositoryPath":  "assets/flags-svg/dz.svg",
+                       "sizeBytes":  294,
+                       "sha256":  "9ea0cf93222ab7b5e7b77b9576afcad80dad1eff33827e8e58dbfbb42aeb8213",
+                       "contentType":  "image/svg+xml",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/flags-svg/dz.svg"
+                   },
+                   {
+                       "originalPublicPath":  "assets/flags-svg/ec.svg",
+                       "repositoryPath":  "assets/flags-svg/ec.svg",
+                       "sizeBytes":  28777,
+                       "sha256":  "4472b0618e2f5e31d31d16c0d7d811310c33b07d5a101b54f60fcb7ec84d1d4d",
+                       "contentType":  "image/svg+xml",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/flags-svg/ec.svg"
+                   },
+                   {
+                       "originalPublicPath":  "assets/flags-svg/eg.svg",
+                       "repositoryPath":  "assets/flags-svg/eg.svg",
+                       "sizeBytes":  8846,
+                       "sha256":  "a12e12117153b4e96ee31b759ee9ccc1cb4691e0929823e8ccb782bdf57b2beb",
+                       "contentType":  "image/svg+xml",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/flags-svg/eg.svg"
+                   },
+                   {
+                       "originalPublicPath":  "assets/flags-svg/es.svg",
+                       "repositoryPath":  "assets/flags-svg/es.svg",
+                       "sizeBytes":  81677,
+                       "sha256":  "1d60aebdd9ecfc669e11ea317a9f5ba8af6a9d6b98a841b9f70d8243e65b60eb",
+                       "contentType":  "image/svg+xml",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/flags-svg/es.svg"
+                   },
+                   {
+                       "originalPublicPath":  "assets/flags-svg/fr.svg",
+                       "repositoryPath":  "assets/flags-svg/fr.svg",
+                       "sizeBytes":  231,
+                       "sha256":  "8cdacc8d79bcf210cdca2777a2c0de1f9e5862526877bd3026c9d59ecdcd4578",
+                       "contentType":  "image/svg+xml",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/flags-svg/fr.svg"
+                   },
+                   {
+                       "originalPublicPath":  "assets/flags-svg/gb-eng.svg",
+                       "repositoryPath":  "assets/flags-svg/gb-eng.svg",
+                       "sizeBytes":  239,
+                       "sha256":  "53797ba9e2dd9b18cd5344255f4e9ae9fad743ecb628fc9feb98abea4f48f90e",
+                       "contentType":  "image/svg+xml",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/flags-svg/gb-eng.svg"
+                   },
+                   {
+                       "originalPublicPath":  "assets/flags-svg/gb-sct.svg",
+                       "repositoryPath":  "assets/flags-svg/gb-sct.svg",
+                       "sizeBytes":  228,
+                       "sha256":  "7b55bce70824742222ccd804a4bc3d0e0f0f9416d103d05a46dd60825ce559f7",
+                       "contentType":  "image/svg+xml",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/flags-svg/gb-sct.svg"
+                   },
+                   {
+                       "originalPublicPath":  "assets/flags-svg/gh.svg",
+                       "repositoryPath":  "assets/flags-svg/gh.svg",
+                       "sizeBytes":  293,
+                       "sha256":  "53c55ca455293bceecfe6a5d6b12dc0bb670734c50bfd95cb21dc4ef12197405",
+                       "contentType":  "image/svg+xml",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/flags-svg/gh.svg"
+                   },
+                   {
+                       "originalPublicPath":  "assets/flags-svg/hr.svg",
+                       "repositoryPath":  "assets/flags-svg/hr.svg",
+                       "sizeBytes":  31032,
+                       "sha256":  "6c9bd3fa4533610a8c54cb1e9da4c894c86d273bde61c8e6c2eb887216cd53c6",
+                       "contentType":  "image/svg+xml",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/flags-svg/hr.svg"
+                   },
+                   {
+                       "originalPublicPath":  "assets/flags-svg/ht.svg",
+                       "repositoryPath":  "assets/flags-svg/ht.svg",
+                       "sizeBytes":  13350,
+                       "sha256":  "d5202cea57937dd3ed138e51f93f0c9f754f5ba9bbd8ee20e6ae078d9d7e6aad",
+                       "contentType":  "image/svg+xml",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/flags-svg/ht.svg"
+                   },
+                   {
+                       "originalPublicPath":  "assets/flags-svg/iq.svg",
+                       "repositoryPath":  "assets/flags-svg/iq.svg",
+                       "sizeBytes":  1420,
+                       "sha256":  "073b07113d582dfea58fbd7e7e63cd9626bfa4afc87b3446a2a798981e26a412",
+                       "contentType":  "image/svg+xml",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/flags-svg/iq.svg"
+                   },
+                   {
+                       "originalPublicPath":  "assets/flags-svg/ir.svg",
+                       "repositoryPath":  "assets/flags-svg/ir.svg",
+                       "sizeBytes":  15397,
+                       "sha256":  "cb363e09bafbff6de7c2fba6a002ca33f0563dc83a2328d34adb492cf80ca629",
+                       "contentType":  "image/svg+xml",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/flags-svg/ir.svg"
+                   },
+                   {
+                       "originalPublicPath":  "assets/flags-svg/jo.svg",
+                       "repositoryPath":  "assets/flags-svg/jo.svg",
+                       "sizeBytes":  727,
+                       "sha256":  "e3a570d5c50c15f4aca73d27b2543ee335fd04151847e3d8ef2b42e5ac1ebe12",
+                       "contentType":  "image/svg+xml",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/flags-svg/jo.svg"
+                   },
+                   {
+                       "originalPublicPath":  "assets/flags-svg/jp.svg",
+                       "repositoryPath":  "assets/flags-svg/jp.svg",
+                       "sizeBytes":  470,
+                       "sha256":  "bfea80baf9989383dc4bf7ca594ed95be0df0ff125bfc88d0bfa878eb0198022",
+                       "contentType":  "image/svg+xml",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/flags-svg/jp.svg"
+                   },
+                   {
+                       "originalPublicPath":  "assets/flags-svg/kr.svg",
+                       "repositoryPath":  "assets/flags-svg/kr.svg",
+                       "sizeBytes":  1061,
+                       "sha256":  "7a6cd5b51d0e2841ed8b79b1147ad8a66cf3c09f6344d4a63b5e4413ffa5d15b",
+                       "contentType":  "image/svg+xml",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/flags-svg/kr.svg"
+                   },
+                   {
+                       "originalPublicPath":  "assets/flags-svg/ma.svg",
+                       "repositoryPath":  "assets/flags-svg/ma.svg",
+                       "sizeBytes":  247,
+                       "sha256":  "28cfcdecf9675b0a14fbfae176324aea03711edab1a13592cfb7d58e6772b25c",
+                       "contentType":  "image/svg+xml",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/flags-svg/ma.svg"
+                   },
+                   {
+                       "originalPublicPath":  "assets/flags-svg/mx.svg",
+                       "repositoryPath":  "assets/flags-svg/mx.svg",
+                       "sizeBytes":  85231,
+                       "sha256":  "bf69fcf0118ebf04d391c522883b36da521d44169163c290435192930d28a109",
+                       "contentType":  "image/svg+xml",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/flags-svg/mx.svg"
+                   },
+                   {
+                       "originalPublicPath":  "assets/flags-svg/nl.svg",
+                       "repositoryPath":  "assets/flags-svg/nl.svg",
+                       "sizeBytes":  225,
+                       "sha256":  "8f691f17fe70894537af8e92f2ca47761d353639b0defc15cbe561eb503ab010",
+                       "contentType":  "image/svg+xml",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/flags-svg/nl.svg"
+                   },
+                   {
+                       "originalPublicPath":  "assets/flags-svg/no.svg",
+                       "repositoryPath":  "assets/flags-svg/no.svg",
+                       "sizeBytes":  318,
+                       "sha256":  "ceea17af051dceefd5759a824213eb40ac8a8095aa88a6874a7bbc8de637357a",
+                       "contentType":  "image/svg+xml",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/flags-svg/no.svg"
+                   },
+                   {
+                       "originalPublicPath":  "assets/flags-svg/nz.svg",
+                       "repositoryPath":  "assets/flags-svg/nz.svg",
+                       "sizeBytes":  2172,
+                       "sha256":  "794a2c8c09796090ab748a74bc35aed825e701eaddc46b138f300401ac9a25cd",
+                       "contentType":  "image/svg+xml",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/flags-svg/nz.svg"
+                   },
+                   {
+                       "originalPublicPath":  "assets/flags-svg/pa.svg",
+                       "repositoryPath":  "assets/flags-svg/pa.svg",
+                       "sizeBytes":  744,
+                       "sha256":  "6181586e499d3bafb6190e0304904662dc31fc878ec8efcfab879455c15e83c4",
+                       "contentType":  "image/svg+xml",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/flags-svg/pa.svg"
+                   },
+                   {
+                       "originalPublicPath":  "assets/flags-svg/pt.svg",
+                       "repositoryPath":  "assets/flags-svg/pt.svg",
+                       "sizeBytes":  8016,
+                       "sha256":  "79fb7f58a45dcef3f1149742fab8817068d962ebeb3179308b72c3ed1f73d4e4",
+                       "contentType":  "image/svg+xml",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/flags-svg/pt.svg"
+                   },
+                   {
+                       "originalPublicPath":  "assets/flags-svg/py.svg",
+                       "repositoryPath":  "assets/flags-svg/py.svg",
+                       "sizeBytes":  16221,
+                       "sha256":  "94d13e3c892d50d79fba60cd425381bd553db6f2c3c12ea9d3b8927a92511947",
+                       "contentType":  "image/svg+xml",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/flags-svg/py.svg"
+                   },
+                   {
+                       "originalPublicPath":  "assets/flags-svg/qa.svg",
+                       "repositoryPath":  "assets/flags-svg/qa.svg",
+                       "sizeBytes":  354,
+                       "sha256":  "fb955ef352ff3ba1ea980090c31d5cf15257729d32949d04b18402651e93b986",
+                       "contentType":  "image/svg+xml",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/flags-svg/qa.svg"
+                   },
+                   {
+                       "originalPublicPath":  "assets/flags-svg/sa.svg",
+                       "repositoryPath":  "assets/flags-svg/sa.svg",
+                       "sizeBytes":  9982,
+                       "sha256":  "a199a6b3737f1de2dfc91edf67c168202b7962a648624c0e56715e6c29cbfcde",
+                       "contentType":  "image/svg+xml",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/flags-svg/sa.svg"
+                   },
+                   {
+                       "originalPublicPath":  "assets/flags-svg/se.svg",
+                       "repositoryPath":  "assets/flags-svg/se.svg",
+                       "sizeBytes":  209,
+                       "sha256":  "b3b5071e6c1d4a0e3db828bab5c7dfd68d0e90fcf3b25b15e9a2c4f96c1f79c9",
+                       "contentType":  "image/svg+xml",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/flags-svg/se.svg"
+                   },
+                   {
+                       "originalPublicPath":  "assets/flags-svg/sn.svg",
+                       "repositoryPath":  "assets/flags-svg/sn.svg",
+                       "sizeBytes":  421,
+                       "sha256":  "6437db13c13fa5cc1b121e6b59739902c6583be6db361260873ce2664f666478",
+                       "contentType":  "image/svg+xml",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/flags-svg/sn.svg"
+                   },
+                   {
+                       "originalPublicPath":  "assets/flags-svg/tn.svg",
+                       "repositoryPath":  "assets/flags-svg/tn.svg",
+                       "sizeBytes":  343,
+                       "sha256":  "8e0274e5762a4d5f783e64f1206dd69008454f750de21d3ba61439d0af3c577c",
+                       "contentType":  "image/svg+xml",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/flags-svg/tn.svg"
+                   },
+                   {
+                       "originalPublicPath":  "assets/flags-svg/tr.svg",
+                       "repositoryPath":  "assets/flags-svg/tr.svg",
+                       "sizeBytes":  549,
+                       "sha256":  "256a1d6afbedb9f731566982331a1cd1ad14aba211b8a61d338855879505e74f",
+                       "contentType":  "image/svg+xml",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/flags-svg/tr.svg"
+                   },
+                   {
+                       "originalPublicPath":  "assets/flags-svg/un.svg",
+                       "repositoryPath":  "assets/flags-svg/un.svg",
+                       "sizeBytes":  410,
+                       "sha256":  "e93fc64790ed0ed5a25ba6de5b832126ba54933838e558eb76f92e130a3d1560",
+                       "contentType":  "image/svg+xml",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/flags-svg/un.svg"
+                   },
+                   {
+                       "originalPublicPath":  "assets/flags-svg/us.svg",
+                       "repositoryPath":  "assets/flags-svg/us.svg",
+                       "sizeBytes":  648,
+                       "sha256":  "e7be4240cf57987926673708f09233be1ab6bdf35acc7b86bd32a263f197a2a7",
+                       "contentType":  "image/svg+xml",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/flags-svg/us.svg"
+                   },
+                   {
+                       "originalPublicPath":  "assets/flags-svg/uy.svg",
+                       "repositoryPath":  "assets/flags-svg/uy.svg",
+                       "sizeBytes":  1724,
+                       "sha256":  "47656c0bf4961a1f7233841eb78756cd45d074e7d4061b8a1217bba7754a30fe",
+                       "contentType":  "image/svg+xml",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/flags-svg/uy.svg"
+                   },
+                   {
+                       "originalPublicPath":  "assets/flags-svg/uz.svg",
+                       "repositoryPath":  "assets/flags-svg/uz.svg",
+                       "sizeBytes":  1498,
+                       "sha256":  "62ce6f1073416e8d3d599639ec8b105f4de167c0730f036e47c650e686c4ff5d",
+                       "contentType":  "image/svg+xml",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/flags-svg/uz.svg"
+                   },
+                   {
+                       "originalPublicPath":  "assets/flags-svg/za.svg",
+                       "repositoryPath":  "assets/flags-svg/za.svg",
+                       "sizeBytes":  860,
+                       "sha256":  "1755a5e16f1c9f5120e4871e8454bdee663beb4fb4827012bcd02cb9044249c2",
+                       "contentType":  "image/svg+xml",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/flags-svg/za.svg"
+                   },
+                   {
+                       "originalPublicPath":  "assets/hero/botao-comecar-palpites.png",
+                       "repositoryPath":  "assets/hero/botao-comecar-palpites.png",
+                       "sizeBytes":  926961,
+                       "sha256":  "1a74f107d66123515b41e5da76fe668141d2595ea5fc838f99fd77e76258a2fa",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/hero/botao-comecar-palpites.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/hero/headline-participe-copa.png",
+                       "repositoryPath":  "assets/hero/headline-participe-copa.png",
+                       "sizeBytes":  1312633,
+                       "sha256":  "e83c89d193bf5d1e97ae71f38b2315413f57493757858f456c1f79f686df5c63",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/hero/headline-participe-copa.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/hero/hero-copa-trofeu-bg.png",
+                       "repositoryPath":  "assets/hero/hero-copa-trofeu-bg.png",
+                       "sizeBytes":  2127331,
+                       "sha256":  "79c923ae2bdd1a532624e9c9e808e98747abe1aa5bc79726a878cee4d460ec5c",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/hero/hero-copa-trofeu-bg.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/hero/mobile-reference.png",
+                       "repositoryPath":  "assets/hero/mobile-reference.png",
+                       "sizeBytes":  2540746,
+                       "sha256":  "72e315732c491aa492134102b5926d36243373b48f2e0302b18a8a025708de4e",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/hero/mobile-reference.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/hero/slide-1.png",
+                       "repositoryPath":  "assets/hero/slide-1.png",
+                       "sizeBytes":  2127331,
+                       "sha256":  "79c923ae2bdd1a532624e9c9e808e98747abe1aa5bc79726a878cee4d460ec5c",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/hero/slide-1.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/hero/slide-1-ranking.png",
+                       "repositoryPath":  "assets/hero/slide-1-ranking.png",
+                       "sizeBytes":  2677463,
+                       "sha256":  "c0aab0b5c1cf29b419aa7738b1c060d199433ac8fd74bf13705f296cb9478131",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/hero/slide-1-ranking.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/hero/slide-1-ranking.webp",
+                       "repositoryPath":  "assets/hero/slide-1-ranking.webp",
+                       "sizeBytes":  103214,
+                       "sha256":  "ae1f88be5a47f9939a34edf1e6e2c1a58defe8f6064984778547657e49a30b54",
+                       "contentType":  "image/webp",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/hero/slide-1-ranking.webp"
+                   },
+                   {
+                       "originalPublicPath":  "assets/hero/slide-2.png",
+                       "repositoryPath":  "assets/hero/slide-2.png",
+                       "sizeBytes":  2127331,
+                       "sha256":  "79c923ae2bdd1a532624e9c9e808e98747abe1aa5bc79726a878cee4d460ec5c",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/hero/slide-2.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/hero/slide-2-zerbini.png",
+                       "repositoryPath":  "assets/hero/slide-2-zerbini.png",
+                       "sizeBytes":  2741385,
+                       "sha256":  "c78d0df5c564954555b6ef7edf4da611bf6a97c684f5d854e0378e2dd8cd1f7a",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/hero/slide-2-zerbini.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/hero/slide-2-zerbini.webp",
+                       "repositoryPath":  "assets/hero/slide-2-zerbini.webp",
+                       "sizeBytes":  135234,
+                       "sha256":  "e68924c26c028d46d096337ac8e3e437ebeb1f6fca965aabb513493abf62ea40",
+                       "contentType":  "image/webp",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/hero/slide-2-zerbini.webp"
+                   },
+                   {
+                       "originalPublicPath":  "assets/hero/slide-3.png",
+                       "repositoryPath":  "assets/hero/slide-3.png",
+                       "sizeBytes":  2127331,
+                       "sha256":  "79c923ae2bdd1a532624e9c9e808e98747abe1aa5bc79726a878cee4d460ec5c",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/hero/slide-3.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/hero/slide-3-equipe.png",
+                       "repositoryPath":  "assets/hero/slide-3-equipe.png",
+                       "sizeBytes":  2715091,
+                       "sha256":  "89142eb6918f8c2f9a1a43be85e1aa97263f9ecc107668514dc2b439dececca5",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/hero/slide-3-equipe.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/hero/slide-3-equipe.webp",
+                       "repositoryPath":  "assets/hero/slide-3-equipe.webp",
+                       "sizeBytes":  104842,
+                       "sha256":  "2b00205daa1e2110f10857077d91709ce02a0b0477b0666f384dcf7e3eb03173",
+                       "contentType":  "image/webp",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/hero/slide-3-equipe.webp"
+                   },
+                   {
+                       "originalPublicPath":  "assets/hero/slide-4-copa2026.png",
+                       "repositoryPath":  "assets/hero/slide-4-copa2026.png",
+                       "sizeBytes":  2655862,
+                       "sha256":  "990297c0737d512fc4b087066a10102a5f1f5a9d90b1c516aefe005510ff9ead",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/hero/slide-4-copa2026.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/hero/slide-4-copa2026.webp",
+                       "repositoryPath":  "assets/hero/slide-4-copa2026.webp",
+                       "sizeBytes":  120076,
+                       "sha256":  "2561b1342f8a43670aa655b3a36d2b2d061b50c639baad826b00799af7a15b3e",
+                       "contentType":  "image/webp",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/hero/slide-4-copa2026.webp"
+                   },
+                   {
+                       "originalPublicPath":  "assets/icons/features/admin-usuarios-v13.png",
+                       "repositoryPath":  "assets/icons/features/admin-usuarios-v13.png",
+                       "sizeBytes":  178880,
+                       "sha256":  "61dd72245ea4165d272e6885fd36185fa691a9d10fbadafc1c85c9049533f447",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/icons/features/admin-usuarios-v13.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/icons/features/alinhamento-lider-v12.png",
+                       "repositoryPath":  "assets/icons/features/alinhamento-lider-v12.png",
+                       "sizeBytes":  178880,
+                       "sha256":  "61dd72245ea4165d272e6885fd36185fa691a9d10fbadafc1c85c9049533f447",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/icons/features/alinhamento-lider-v12.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/icons/features/badge.svg",
+                       "repositoryPath":  "assets/icons/features/badge.svg",
+                       "sizeBytes":  375,
+                       "sha256":  "cd514aab18926f577785f77897fd6a509ae507b80511858969dd9ccbe6431364",
+                       "contentType":  "image/svg+xml",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/icons/features/badge.svg"
+                   },
+                   {
+                       "originalPublicPath":  "assets/icons/features/badge-atual-v12.png",
+                       "repositoryPath":  "assets/icons/features/badge-atual-v12.png",
+                       "sizeBytes":  195425,
+                       "sha256":  "35c8e875cb30abc9d774b6b22c2a046fabb0c5c11549bb02d3cd89efa863a144",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/icons/features/badge-atual-v12.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/icons/features/badges-especiais-zercopa.png",
+                       "repositoryPath":  "assets/icons/features/badges-especiais-zercopa.png",
+                       "sizeBytes":  195425,
+                       "sha256":  "35c8e875cb30abc9d774b6b22c2a046fabb0c5c11549bb02d3cd89efa863a144",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/icons/features/badges-especiais-zercopa.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/icons/features/coins.svg",
+                       "repositoryPath":  "assets/icons/features/coins.svg",
+                       "sizeBytes":  599,
+                       "sha256":  "d3636ba4fcc658f3510606a10b4a2dd9dbd12c55c8d53e886dd5bdb37bf3b657",
+                       "contentType":  "image/svg+xml",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/icons/features/coins.svg"
+                   },
+                   {
+                       "originalPublicPath":  "assets/icons/features/entrega-premio-v12.png",
+                       "repositoryPath":  "assets/icons/features/entrega-premio-v12.png",
+                       "sizeBytes":  204144,
+                       "sha256":  "9664d6f15016a4f3ce2b79b586ed8cdae7465a8fda4780eeb6af8445831b06c7",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/icons/features/entrega-premio-v12.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/icons/features/live.svg",
+                       "repositoryPath":  "assets/icons/features/live.svg",
+                       "sizeBytes":  284,
+                       "sha256":  "1ff432735c5e00efe5bdc2770f994bc625cfdf0fbb4cce8a8a45ff03fc91b97f",
+                       "contentType":  "image/svg+xml",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/icons/features/live.svg"
+                   },
+                   {
+                       "originalPublicPath":  "assets/icons/features/percentual-acerto-v12.png",
+                       "repositoryPath":  "assets/icons/features/percentual-acerto-v12.png",
+                       "sizeBytes":  202426,
+                       "sha256":  "ef17770d5181bc935b8d320c25c925c9299dbafe8fcd4bf3226acbf5b365c164",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/icons/features/percentual-acerto-v12.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/icons/features/quantidade-limitada-v12.png",
+                       "repositoryPath":  "assets/icons/features/quantidade-limitada-v12.png",
+                       "sizeBytes":  195213,
+                       "sha256":  "caf0800d426ace5802866e2a1a125ead391351c1bbfb471ad61611f3f082c2f7",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/icons/features/quantidade-limitada-v12.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/icons/features/recompensas-page.png",
+                       "repositoryPath":  "assets/icons/features/recompensas-page.png",
+                       "sizeBytes":  277839,
+                       "sha256":  "cdf947182031d6a701a8dac8edc7f864a0177ff3c426d6f0ab2c4956a5553da2",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/icons/features/recompensas-page.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/icons/features/shop.svg",
+                       "repositoryPath":  "assets/icons/features/shop.svg",
+                       "sizeBytes":  351,
+                       "sha256":  "9d1aacd0a90c54e11300d69ac3b5fc5fd59759f9944794e9723b4c316dc17596",
+                       "contentType":  "image/svg+xml",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/icons/features/shop.svg"
+                   },
+                   {
+                       "originalPublicPath":  "assets/icons/features/stats.svg",
+                       "repositoryPath":  "assets/icons/features/stats.svg",
+                       "sizeBytes":  396,
+                       "sha256":  "b00ef1405db821466e45288b6e6fd09d709ced29ccb864be2ebfeb6ec9d7a852",
+                       "contentType":  "image/svg+xml",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/icons/features/stats.svg"
+                   },
+                   {
+                       "originalPublicPath":  "assets/icons/features/trophy.svg",
+                       "repositoryPath":  "assets/icons/features/trophy.svg",
+                       "sizeBytes":  346,
+                       "sha256":  "2988a4bd3feba2365978aaeddc7d991bd5f6fdabd387909196499dd73d90967d",
+                       "contentType":  "image/svg+xml",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/icons/features/trophy.svg"
+                   },
+                   {
+                       "originalPublicPath":  "assets/icons/kpi/meus-pontos-estrela.png",
+                       "repositoryPath":  "assets/icons/kpi/meus-pontos-estrela.png",
+                       "sizeBytes":  553267,
+                       "sha256":  "a46fb6036495eb550d08c9f30e09ebb5f14b5e81092e4930874428f9f569a82f",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/icons/kpi/meus-pontos-estrela.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/icons/kpi/minha-posicao-trofeu.png",
+                       "repositoryPath":  "assets/icons/kpi/minha-posicao-trofeu.png",
+                       "sizeBytes":  620050,
+                       "sha256":  "a038348406c73140c1f23443ae7844b691bec29a366a9f2d25e162183a6bd1cc",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/icons/kpi/minha-posicao-trofeu.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/icons/kpi/palpites-enviados-alvo.png",
+                       "repositoryPath":  "assets/icons/kpi/palpites-enviados-alvo.png",
+                       "sizeBytes":  595608,
+                       "sha256":  "5214209d8f81c040e71cece5dfa413f19b472eed1b0c85ae9192b8e4e066311c",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/icons/kpi/palpites-enviados-alvo.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/icons/kpi/proximo-jogo-bandeira.png",
+                       "repositoryPath":  "assets/icons/kpi/proximo-jogo-bandeira.png",
+                       "sizeBytes":  550142,
+                       "sha256":  "20899550a9aaa732042574dd3947e6598b53735d09d9d134b0d10eec860bc2e3",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/icons/kpi/proximo-jogo-bandeira.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/icons/modules/avisos.png",
+                       "repositoryPath":  "assets/icons/modules/avisos.png",
+                       "sizeBytes":  203143,
+                       "sha256":  "365bcff4d4bee62be7da1a9cbc4f38367ba5d8eaaa42c301cfca4392df49f294",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/icons/modules/avisos.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/icons/modules/avisos-v12.png",
+                       "repositoryPath":  "assets/icons/modules/avisos-v12.png",
+                       "sizeBytes":  203143,
+                       "sha256":  "365bcff4d4bee62be7da1a9cbc4f38367ba5d8eaaa42c301cfca4392df49f294",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/icons/modules/avisos-v12.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/icons/modules/calendario.png",
+                       "repositoryPath":  "assets/icons/modules/calendario.png",
+                       "sizeBytes":  191556,
+                       "sha256":  "4196f674a8773d402572f127cd55f2f6f67874bd316b2b0cfaf356e4e3ff39fe",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/icons/modules/calendario.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/icons/modules/calendario.svg",
+                       "repositoryPath":  "assets/icons/modules/calendario.svg",
+                       "sizeBytes":  611,
+                       "sha256":  "345b66a7cd39beb6fde57e09aa4a9935987420b6780ad9ec8c1fb26dca1005ed",
+                       "contentType":  "image/svg+xml",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/icons/modules/calendario.svg"
+                   },
+                   {
+                       "originalPublicPath":  "assets/icons/modules/jogos-copa.png",
+                       "repositoryPath":  "assets/icons/modules/jogos-copa.png",
+                       "sizeBytes":  179530,
+                       "sha256":  "ebf6c25e421b3766d34e35df6fb66ff71774bec640d39aad9e3511444c97353a",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/icons/modules/jogos-copa.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/icons/modules/meus-palpites.png",
+                       "repositoryPath":  "assets/icons/modules/meus-palpites.png",
+                       "sizeBytes":  174480,
+                       "sha256":  "5e21fe963dbe4b55fce118acd12a1d9efd1a3af99716a2b45886087955ffcfa7",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/icons/modules/meus-palpites.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/icons/modules/meus-palpites-v12.png",
+                       "repositoryPath":  "assets/icons/modules/meus-palpites-v12.png",
+                       "sizeBytes":  174480,
+                       "sha256":  "5e21fe963dbe4b55fce118acd12a1d9efd1a3af99716a2b45886087955ffcfa7",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/icons/modules/meus-palpites-v12.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/icons/modules/meus-pontos.png",
+                       "repositoryPath":  "assets/icons/modules/meus-pontos.png",
+                       "sizeBytes":  278850,
+                       "sha256":  "ffa2c3d21266e2694dba2a1bed209b2facea6c219eb8c14658aada2a2ba44a8e",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/icons/modules/meus-pontos.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/icons/modules/minha-posicao.png",
+                       "repositoryPath":  "assets/icons/modules/minha-posicao.png",
+                       "sizeBytes":  186891,
+                       "sha256":  "0694fb47ac71e8a0c43cd19abe246880d8697bee6ddd0608694ad57af75d0a9b",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/icons/modules/minha-posicao.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/icons/modules/proximos-jogos.png",
+                       "repositoryPath":  "assets/icons/modules/proximos-jogos.png",
+                       "sizeBytes":  243663,
+                       "sha256":  "1bab414d81766a7325d0a7558f44656d34cfdd80d1c43b82c517a1b84b5f86ec",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/icons/modules/proximos-jogos.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/icons/modules/ranking.png",
+                       "repositoryPath":  "assets/icons/modules/ranking.png",
+                       "sizeBytes":  182644,
+                       "sha256":  "2107d34fb8c8ba8263a932ea1697b93f2b6b76d9d55ae78b5493989dd2fe3ded",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/icons/modules/ranking.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/icons/modules/regras.png",
+                       "repositoryPath":  "assets/icons/modules/regras.png",
+                       "sizeBytes":  167377,
+                       "sha256":  "2b184a1c75e5cbd5f1f9ddb0827ae0918ec0fd6be8ff2755b2ec19c5e7e68eff",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/icons/modules/regras.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/icons/modules/regras-v12.png",
+                       "repositoryPath":  "assets/icons/modules/regras-v12.png",
+                       "sizeBytes":  167377,
+                       "sha256":  "2b184a1c75e5cbd5f1f9ddb0827ae0918ec0fd6be8ff2755b2ec19c5e7e68eff",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/icons/modules/regras-v12.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/icons/modules/resultados.png",
+                       "repositoryPath":  "assets/icons/modules/resultados.png",
+                       "sizeBytes":  202858,
+                       "sha256":  "73dcf64b8feea7d57bcbe937b13264d798553c4de7bfad14b22eb73824204393",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/icons/modules/resultados.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/illustrations/trofeu-regras-premiacao.png",
+                       "repositoryPath":  "assets/illustrations/trofeu-regras-premiacao.png",
+                       "sizeBytes":  910994,
+                       "sha256":  "7c7e9d1451e62c0943b5cdaefbe90e623c9211f24d3e13ff4cacbc519673ce90",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/illustrations/trofeu-regras-premiacao.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/rewards/bola-oficial.png",
+                       "repositoryPath":  "assets/rewards/bola-oficial.png",
+                       "sizeBytes":  2028681,
+                       "sha256":  "2ae0a64559ead01625449d979c2960ecac15ebd6d793c8dbb1867148c3ee9e39",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/rewards/bola-oficial.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/rewards/camisa-oficial.png",
+                       "repositoryPath":  "assets/rewards/camisa-oficial.png",
+                       "sizeBytes":  2191222,
+                       "sha256":  "0fff440038d0d70ec71324768b8961ee32ccbcc02ae65e139feea9687bd56058",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/rewards/camisa-oficial.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/rewards/day-off.png",
+                       "repositoryPath":  "assets/rewards/day-off.png",
+                       "sizeBytes":  1399204,
+                       "sha256":  "67dd747ef368813ee8427e2fc9e659a7edc41fb2097318bece27b89df11c03ac",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/rewards/day-off.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/rewards/home-office-extra.png",
+                       "repositoryPath":  "assets/rewards/home-office-extra.png",
+                       "sizeBytes":  487632,
+                       "sha256":  "3ab262e11c67e3178f4aa73675b19c29fcad8886c8357e86ece338e0240b03ed",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/rewards/home-office-extra.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/rewards/kit-album-copa.png",
+                       "repositoryPath":  "assets/rewards/kit-album-copa.png",
+                       "sizeBytes":  1787975,
+                       "sha256":  "d06844ab1e03d8e8220b7a6e469138d2081c502e191064cce82c579dfec24d8d",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/rewards/kit-album-copa.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/rewards/kit-figurinhas.png",
+                       "repositoryPath":  "assets/rewards/kit-figurinhas.png",
+                       "sizeBytes":  2067928,
+                       "sha256":  "5355a5c45155e23e04b59f464a5b786ea8eef9a18fed6231ae18cb723abba384",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/rewards/kit-figurinhas.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/rewards/loja-bola-oficial-v11.png",
+                       "repositoryPath":  "assets/rewards/loja-bola-oficial-v11.png",
+                       "sizeBytes":  2028681,
+                       "sha256":  "2ae0a64559ead01625449d979c2960ecac15ebd6d793c8dbb1867148c3ee9e39",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/rewards/loja-bola-oficial-v11.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/rewards/loja-bola-oficial-v12.png",
+                       "repositoryPath":  "assets/rewards/loja-bola-oficial-v12.png",
+                       "sizeBytes":  2343458,
+                       "sha256":  "1ccdb374c7d7f5512dab6ca551ad4d4d42ab00c5f945c8e72d61a247b4f730b4",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/rewards/loja-bola-oficial-v12.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/rewards/loja-day-off-v11.png",
+                       "repositoryPath":  "assets/rewards/loja-day-off-v11.png",
+                       "sizeBytes":  1915928,
+                       "sha256":  "ee8a8c669b359ff3079b320616e988b3cc1567e40beac930c118100cceec1065",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/rewards/loja-day-off-v11.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/rewards/loja-day-off-v12.png",
+                       "repositoryPath":  "assets/rewards/loja-day-off-v12.png",
+                       "sizeBytes":  1915928,
+                       "sha256":  "ee8a8c669b359ff3079b320616e988b3cc1567e40beac930c118100cceec1065",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/rewards/loja-day-off-v12.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/rewards/loja-home-office-extra-v11.png",
+                       "repositoryPath":  "assets/rewards/loja-home-office-extra-v11.png",
+                       "sizeBytes":  1756624,
+                       "sha256":  "d294693f21c8e673b19e70dd0083b1f51a86735202f85604e9832b41426c6bd2",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/rewards/loja-home-office-extra-v11.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/rewards/loja-home-office-v12.png",
+                       "repositoryPath":  "assets/rewards/loja-home-office-v12.png",
+                       "sizeBytes":  1756624,
+                       "sha256":  "d294693f21c8e673b19e70dd0083b1f51a86735202f85604e9832b41426c6bd2",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/rewards/loja-home-office-v12.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/rewards/loja-kit-figurinhas-v11.png",
+                       "repositoryPath":  "assets/rewards/loja-kit-figurinhas-v11.png",
+                       "sizeBytes":  2067928,
+                       "sha256":  "5355a5c45155e23e04b59f464a5b786ea8eef9a18fed6231ae18cb723abba384",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/rewards/loja-kit-figurinhas-v11.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/rewards/loja-kit-figurinhas-v12.png",
+                       "repositoryPath":  "assets/rewards/loja-kit-figurinhas-v12.png",
+                       "sizeBytes":  2067928,
+                       "sha256":  "5355a5c45155e23e04b59f464a5b786ea8eef9a18fed6231ae18cb723abba384",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/rewards/loja-kit-figurinhas-v12.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/rewards/loja-minibola-oficial-v11.png",
+                       "repositoryPath":  "assets/rewards/loja-minibola-oficial-v11.png",
+                       "sizeBytes":  1964451,
+                       "sha256":  "9ed94330c3a74012affdac135fdd86ec2770a5cdcbe6236c4bcb3b5693b0bd93",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/rewards/loja-minibola-oficial-v11.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/rewards/loja-minibola-v12.png",
+                       "repositoryPath":  "assets/rewards/loja-minibola-v12.png",
+                       "sizeBytes":  1999636,
+                       "sha256":  "75052666d9093c40b8af9efc4b2137fc3d4d3524040a6f2e4e3779903ebf16f7",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/rewards/loja-minibola-v12.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/rewards/loja-sabado-de-folga-v11.png",
+                       "repositoryPath":  "assets/rewards/loja-sabado-de-folga-v11.png",
+                       "sizeBytes":  1944591,
+                       "sha256":  "735aa7856c5d42cd0d6e5b3be98012d7f967ba6e6f546762f3febe820d2f7937",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/rewards/loja-sabado-de-folga-v11.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/rewards/loja-sabado-folga-v12.png",
+                       "repositoryPath":  "assets/rewards/loja-sabado-folga-v12.png",
+                       "sizeBytes":  1944591,
+                       "sha256":  "735aa7856c5d42cd0d6e5b3be98012d7f967ba6e6f546762f3febe820d2f7937",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/rewards/loja-sabado-folga-v12.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/rewards/loja-sair-1h-mais-cedo-v11.png",
+                       "repositoryPath":  "assets/rewards/loja-sair-1h-mais-cedo-v11.png",
+                       "sizeBytes":  1905601,
+                       "sha256":  "e37d3a3931b50748343ca4184379a82c82233c38f95118358b46bd24dee8e457",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/rewards/loja-sair-1h-mais-cedo-v11.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/rewards/loja-sair-1h-v12.png",
+                       "repositoryPath":  "assets/rewards/loja-sair-1h-v12.png",
+                       "sizeBytes":  1905601,
+                       "sha256":  "e37d3a3931b50748343ca4184379a82c82233c38f95118358b46bd24dee8e457",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/rewards/loja-sair-1h-v12.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/rewards/loja-vale-sages-r30-v11.png",
+                       "repositoryPath":  "assets/rewards/loja-vale-sages-r30-v11.png",
+                       "sizeBytes":  1620261,
+                       "sha256":  "44b517e63c11e47564da2e3a2b1a7b1c418397d554fc0e83166ab39431217225",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/rewards/loja-vale-sages-r30-v11.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/rewards/loja-vale-sages-v12.png",
+                       "repositoryPath":  "assets/rewards/loja-vale-sages-v12.png",
+                       "sizeBytes":  1620261,
+                       "sha256":  "44b517e63c11e47564da2e3a2b1a7b1c418397d554fc0e83166ab39431217225",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/rewards/loja-vale-sages-v12.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/rewards/loja-voucher-r50-v12.png",
+                       "repositoryPath":  "assets/rewards/loja-voucher-r50-v12.png",
+                       "sizeBytes":  1678989,
+                       "sha256":  "11921fb03281f7cfb9cb501e590bb7b0348280da6bc54cc7f328e75c6f8d48d4",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/rewards/loja-voucher-r50-v12.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/rewards/loja-voucher-restaurante-r50-v11.png",
+                       "repositoryPath":  "assets/rewards/loja-voucher-restaurante-r50-v11.png",
+                       "sizeBytes":  1797403,
+                       "sha256":  "1f2cae9621f8a42bb3e8cfd3aaef525e26c488324d6973d590d1b407529e402f",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/rewards/loja-voucher-restaurante-r50-v11.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/rewards/minibola-oficial.png",
+                       "repositoryPath":  "assets/rewards/minibola-oficial.png",
+                       "sizeBytes":  1964451,
+                       "sha256":  "9ed94330c3a74012affdac135fdd86ec2770a5cdcbe6236c4bcb3b5693b0bd93",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/rewards/minibola-oficial.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/rewards/premio-16avos-oitavas.png",
+                       "repositoryPath":  "assets/rewards/premio-16avos-oitavas.png",
+                       "sizeBytes":  2135930,
+                       "sha256":  "eb05d4439ddca27fb07401ba07d5ef2451d2045fad5853d23fb5c41f57734536",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/rewards/premio-16avos-oitavas.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/rewards/premio-campeao-geral.png",
+                       "repositoryPath":  "assets/rewards/premio-campeao-geral.png",
+                       "sizeBytes":  2157492,
+                       "sha256":  "9da78c9098444753d85498e289c174a038871f13b96bc61ccd9d681c6b375b95",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/rewards/premio-campeao-geral.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/rewards/premio-fase-grupos.png",
+                       "repositoryPath":  "assets/rewards/premio-fase-grupos.png",
+                       "sizeBytes":  1771512,
+                       "sha256":  "05f05d11dced22770dd7503727d0539b961203528e96a0c10192831a9951f1f3",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/rewards/premio-fase-grupos.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/rewards/premio-final.png",
+                       "repositoryPath":  "assets/rewards/premio-final.png",
+                       "sizeBytes":  2113362,
+                       "sha256":  "0f8e77bc2878216583e7b8926294212525c83f17e6ea561966e3cb2fd814fcb3",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/rewards/premio-final.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/rewards/premio-quartas-semifinal.png",
+                       "repositoryPath":  "assets/rewards/premio-quartas-semifinal.png",
+                       "sizeBytes":  1968245,
+                       "sha256":  "66c2e364154605cfd99881a957b46fdee53e7ffcdb30c91bdac43b549c8c0afa",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/rewards/premio-quartas-semifinal.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/rewards/premio-terceiro-lugar.png",
+                       "repositoryPath":  "assets/rewards/premio-terceiro-lugar.png",
+                       "sizeBytes":  1789964,
+                       "sha256":  "00adc05af1bab393f600f6024937012ca1dcb94baa54cae7111d128a191db80c",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/rewards/premio-terceiro-lugar.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/rewards/premio-vice-campeao.png",
+                       "repositoryPath":  "assets/rewards/premio-vice-campeao.png",
+                       "sizeBytes":  2115887,
+                       "sha256":  "81fe8845a8b56582901f69defeee47530f3ea7eb591fc60382e964fc70344fe9",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/rewards/premio-vice-campeao.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/rewards/sabado-de-folga.png",
+                       "repositoryPath":  "assets/rewards/sabado-de-folga.png",
+                       "sizeBytes":  1512479,
+                       "sha256":  "c70449057852093fff1e7db6d41b2b337b5ce4d7eba7e619e5ff2a0d83a0cb56",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/rewards/sabado-de-folga.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/rewards/sair-1h-cedo.png",
+                       "repositoryPath":  "assets/rewards/sair-1h-cedo.png",
+                       "sizeBytes":  1361301,
+                       "sha256":  "61784b8753adac02d25c583b1e73bac0bf571748496775f9018b9cdfedfb4175",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/rewards/sair-1h-cedo.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/rewards/vale-sages.png",
+                       "repositoryPath":  "assets/rewards/vale-sages.png",
+                       "sizeBytes":  1143810,
+                       "sha256":  "688671714255ed8367b846efb55e17096f942beb71a4b3989d3c1a3164e482c6",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/rewards/vale-sages.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/rewards/voucher-restaurante-100.png",
+                       "repositoryPath":  "assets/rewards/voucher-restaurante-100.png",
+                       "sizeBytes":  1717130,
+                       "sha256":  "0396b1d078afed4488cfd00d23c4741d844435a39dc964e7452de2ff17634c71",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/rewards/voucher-restaurante-100.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/rewards/voucher-restaurante-150.png",
+                       "repositoryPath":  "assets/rewards/voucher-restaurante-150.png",
+                       "sizeBytes":  1699929,
+                       "sha256":  "acd9d2f89cbbd1af70fabda8def4da8cbbef3e08229112b1f57135da70107c2b",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/rewards/voucher-restaurante-150.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/rewards/voucher-restaurante-50.png",
+                       "repositoryPath":  "assets/rewards/voucher-restaurante-50.png",
+                       "sizeBytes":  1797403,
+                       "sha256":  "1f2cae9621f8a42bb3e8cfd3aaef525e26c488324d6973d590d1b407529e402f",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/rewards/voucher-restaurante-50.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/rewards/zcash.png",
+                       "repositoryPath":  "assets/rewards/zcash.png",
+                       "sizeBytes":  1198917,
+                       "sha256":  "22dba9f0a238904e1009a8a0e2cd46891c41af624f3df2e9e5f546b4cc5aca2c",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/rewards/zcash.png"
+                   },
+                   {
+                       "originalPublicPath":  "assets/rewards/zcoins.png",
+                       "repositoryPath":  "assets/rewards/zcoins.png",
+                       "sizeBytes":  1198917,
+                       "sha256":  "22dba9f0a238904e1009a8a0e2cd46891c41af624f3df2e9e5f546b4cc5aca2c",
+                       "contentType":  "image/png",
+                       "url":  "https://rodrigo2025br.github.io/zercopa-assets/assets/rewards/zcoins.png"
+                   }
+               ]
+}
